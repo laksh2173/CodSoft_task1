@@ -1,0 +1,1 @@
+Simple Chat-Bot implemented using Python. ChatBot give preferences based on user input.
